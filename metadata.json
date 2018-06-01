@@ -1,0 +1,19 @@
+{
+    "description": "description of a test collection",
+    "exclusion_criteria": [
+        "children",
+        "fewer than 10 subjects",
+        "doesn't report coordinates"
+    ],
+    "inclusion_criteria": [
+        "adults",
+        "no history of neurological disorder",
+        "performing memory experiment while being scanned"
+    ],
+    "search_to_pmids": {},
+    "tags": [
+        "Metamemory",
+        "Memory"
+    ],
+    "unmapped_pmids": []
+}
