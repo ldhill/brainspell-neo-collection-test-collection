@@ -10,7 +10,15 @@
         "no history of neurological disorder",
         "performing memory experiment while being scanned"
     ],
-    "search_to_pmids": {},
+    "search_to_pmids": {
+        "memory AND (fMRI OR \"functional magnetic resonance imaging\")": [
+            "238734",
+            "89234",
+            "34092",
+            "34024",
+            "98232"
+        ]
+    },
     "tags": [
         "Metamemory",
         "Memory"
