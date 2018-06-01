@@ -1,1 +1,29 @@
-{}
+{
+    "experiments": {
+        "90000": {
+            "excluded_flag": 1,
+            "key_value_pairs": []
+        },
+        "90001": {
+            "excluded_flag": 0,
+            "key_value_pairs": [
+                {
+                    "key": "Stimulus type",
+                    "value": "video games"
+                }
+            ]
+        },
+        "90002": {
+            "excluded_flag": 1,
+            "key_value_pairs": []
+        },
+        "90003": {
+            "excluded_flag": 1,
+            "key_value_pairs": []
+        },
+        "90004": {
+            "excluded_flag": 1,
+            "key_value_pairs": []
+        }
+    }
+}
