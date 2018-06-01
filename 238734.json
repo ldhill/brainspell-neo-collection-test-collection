@@ -1,1 +1,4 @@
-{}
+{
+    "excluded_flag": 1,
+    "exclusion_reason": "doesn't report coordinates"
+}
